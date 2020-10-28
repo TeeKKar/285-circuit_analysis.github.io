@@ -20,7 +20,7 @@
 title: 285 Study Guide
 description: A study guide for ECE285 Circuit Analysis
 baseurl: "/circuit-analysis-study-guide" # the subpath of your site, e.g. /blog
-url: "https://teekkar.github.io/285-circuit_analysis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://teekkar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings

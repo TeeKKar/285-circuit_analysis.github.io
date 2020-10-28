@@ -3,7 +3,7 @@ layout: default
 title: Chapter 6
 nav_order: 3
 parent: Home
-permalink: /circuit-analysis-study-guide/chapter_6
+permalink: /chapter_6
 ---
 
 # Chapter 6
