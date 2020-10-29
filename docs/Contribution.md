@@ -12,11 +12,11 @@ Found an error in the solutions? Not enough of an explination? Well if you are a
 {: .fs-6 .fw-300 }
 
 ## Prerequisites
-* Must have a Github account in order to cotribute
+* Must have a Github account in order to contribute
 * Knowledge on how to use Git, and the Github workflow process
 * Must be a student (or teacher) of this class
 
-
+# More info coming soon
 
 
 
